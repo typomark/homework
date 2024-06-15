@@ -35,3 +35,4 @@ console.log(screens.split(", "));
 let otkat
 otkat = (fullPrice * (rollback / 100));
 console.log(otkat);
+
